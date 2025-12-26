@@ -1,0 +1,1 @@
+All docuements that are to be used as the knowledge base are uploaded in data/documents
